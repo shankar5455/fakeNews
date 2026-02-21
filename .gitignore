@@ -1,0 +1,18 @@
+# Generated model artifacts – run python model_training.py to create these locally
+model.pkl
+vectorizer.pkl
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+
+# Virtual environments
+venv/
+.env/
+env/
+
+# OS files
+.DS_Store
+Thumbs.db
